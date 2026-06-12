@@ -1,2 +1,3 @@
-# -kibetken
-LGRTECH98
+# Hi I,m Ken 
+#Aboutme
+
