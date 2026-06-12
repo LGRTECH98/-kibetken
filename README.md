@@ -1,4 +1,4 @@
-# Hi, I'm [kibet ken]
+# Hi, I'm kibet ken
 
 ## About Me
 - I'm currently learning [software engineering ].
@@ -7,10 +7,12 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [. JavaScript, CSS, python, ]
+- JavaScript
+_ CSS 
+ _Python
 
 ## Current Projects
-- [Web development]
+- Web development
 
 ## How to Reach Me
 - Email: [kibetken112k@gmail.com]
