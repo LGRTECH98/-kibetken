@@ -1,14 +1,17 @@
-<h1># Hi I,m Ken 
-<h2#Aboutme
-_/Im currently learning programming 
-_Im interested in learning tech skills 
-##skills I,m building 
-. Git and GitHub 
-. Java 
-.css
-. python 
-. Html/CSS
-</h2>h3>current projects 
-.web development 
-#How to reach me
-lgrken6@gmail.com</h1>
+# Hi, I'm [kibet ken]
+
+## About Me
+- I'm currently learning [software engineering ].
+- I'm interested in [AI, web development, and data science].
+- I'm looking to collaborate on [open source projects"].
+
+## Skills I'm Building
+- Git and GitHub
+- [. JavaScript, CSS, python, ]
+
+## Current Projects
+- [Web development]
+
+## How to Reach Me
+- Email: [kibetken112k@gmail.com]
+
