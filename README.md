@@ -1,9 +1,9 @@
 # Hi, I'm kibet ken
 
 ## About Me
-- I'm currently learning [software engineering ].
-- I'm interested in [AI, web development, and data science].
-- I'm looking to collaborate on [open source projects"].
+- I'm currently learning software engineering .
+- I'm interested in AI, web development, and data science.
+- I'm looking to collaborate on open source projects.
 
 ## Skills I'm Building
 - Git and GitHub
