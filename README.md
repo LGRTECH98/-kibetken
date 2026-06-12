@@ -8,8 +8,8 @@
 ## Skills I'm Building
 - Git and GitHub
 - JavaScript
+_ Python 
 _ CSS 
- _Python
 
 ## Current Projects
 - Web development
